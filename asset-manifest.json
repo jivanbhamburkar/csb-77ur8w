@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jivanbhamburkar.github.io/csb-77ur8w/static/css/main.97b93561.chunk.css",
+    "main.js": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/main.11d116b7.chunk.js",
+    "main.js.map": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/main.11d116b7.chunk.js.map",
+    "runtime-main.js": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/runtime-main.8d9d7cd6.js",
+    "runtime-main.js.map": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/runtime-main.8d9d7cd6.js.map",
+    "static/js/2.350495db.chunk.js": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/2.350495db.chunk.js",
+    "static/js/2.350495db.chunk.js.map": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/2.350495db.chunk.js.map",
+    "index.html": "https://jivanbhamburkar.github.io/csb-77ur8w/index.html",
+    "static/css/main.97b93561.chunk.css.map": "https://jivanbhamburkar.github.io/csb-77ur8w/static/css/main.97b93561.chunk.css.map",
+    "static/js/2.350495db.chunk.js.LICENSE.txt": "https://jivanbhamburkar.github.io/csb-77ur8w/static/js/2.350495db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9d7cd6.js",
+    "static/js/2.350495db.chunk.js",
+    "static/css/main.97b93561.chunk.css",
+    "static/js/main.11d116b7.chunk.js"
+  ]
+}
